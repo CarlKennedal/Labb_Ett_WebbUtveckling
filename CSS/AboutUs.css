@@ -1,0 +1,22 @@
+.side_columns {
+    width: 200px;
+    background-color:indianred;
+}
+.left_side_break_10px{
+    display: block;
+    margin: 10px 0;
+    line-height: 10px;
+}
+.left_side_break_5px{
+    display: block;
+    margin: 5px 0;
+    line-height: 5px;
+}
+.company_name {
+    font-size: 80px;
+    font-family: sans-serif;
+}
+.bottom_row{
+    background-color: wheat;
+    height: 200px;
+}

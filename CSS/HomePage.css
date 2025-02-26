@@ -1,0 +1,29 @@
+.company_name {
+    font-size: 80px;
+    font-family: sans-serif;
+}
+.side_columns {
+    width: 200px;
+    background-color:wheat;
+}
+.left_side_break_10px{
+    display: block;
+    margin: 10px 0;
+    line-height: 10px;
+}
+.left_side_break_5px{
+    display: block;
+    margin: 5px 0;
+    line-height: 5px;
+}
+.welcome_header {
+    font-size: medium;
+    font-weight: bold;
+}
+.welcome_text_column{
+    background-color: blanchedalmond;
+}
+.bottom_row{
+    background-color: indianred;
+    height: 200px;
+}
